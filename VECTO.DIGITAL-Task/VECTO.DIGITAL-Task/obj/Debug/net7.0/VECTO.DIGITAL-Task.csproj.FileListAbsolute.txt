@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\VECTO.DIGITAL-Task\VECTO.DIGITAL-Task\obj\Debug\net7.0\VECTO.DIGITAL-Task.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\VECTO.DIGITAL-Task\VECTO.DIGITAL-Task\obj\Debug\net7.0\VECTO.DIGITAL-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\VECTO.DIGITAL-Task\VECTO.DIGITAL-Task\obj\Debug\net7.0\VECTO.DIGITAL-Task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VECTO.DIGITAL-Task\VECTO.DIGITAL-Task\obj\Debug\net7.0\VECTO.DIGITAL-Task.AssemblyInfo.cs
+C:\Users\User\source\repos\VECTO.DIGITAL-Task\VECTO.DIGITAL-Task\obj\Debug\net7.0\VECTO.DIGITAL-Task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VECTO.DIGITAL-Task\VECTO.DIGITAL-Task\obj\Debug\net7.0\VECTO.DIGITAL-Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\VECTO.DIGITAL-Task\VECTO.DIGITAL-Task\obj\Debug\net7.0\VECTO.DIGITAL-Task.MvcApplicationPartsAssemblyInfo.cache

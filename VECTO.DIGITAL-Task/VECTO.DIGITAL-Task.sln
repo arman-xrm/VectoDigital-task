@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VECTO.DIGITAL-Task", "VECTO.DIGITAL-Task\VECTO.DIGITAL-Task.csproj", "{AC742BA1-EC32-4E11-90B8-E21C7B24DDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC742BA1-EC32-4E11-90B8-E21C7B24DDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC742BA1-EC32-4E11-90B8-E21C7B24DDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC742BA1-EC32-4E11-90B8-E21C7B24DDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC742BA1-EC32-4E11-90B8-E21C7B24DDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D49CDB-BF14-413E-A994-DEEDE57A5955}
+	EndGlobalSection
+EndGlobal
